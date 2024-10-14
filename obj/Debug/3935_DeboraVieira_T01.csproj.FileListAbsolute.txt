@@ -1,0 +1,10 @@
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\obj\Debug\3935_DeboraVieira_T01.csproj.AssemblyReference.cache
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\obj\Debug\_3935_DeboraVieira_T01.Form1.resources
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\obj\Debug\_3935_DeboraVieira_T01.Properties.Resources.resources
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\obj\Debug\3935_DeboraVieira_T01.csproj.GenerateResource.cache
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\obj\Debug\3935_DeboraVieira_T01.csproj.CoreCompileInputs.cache
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\bin\Debug\3935_DeboraVieira_T01.exe.config
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\bin\Debug\3935_DeboraVieira_T01.exe
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\bin\Debug\3935_DeboraVieira_T01.pdb
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\obj\Debug\3935_DeboraVieira_T01.exe
+C:\Users\debor\Documents\3935\3935_DeboraVieira_T01\3935_DeboraVieira_T01\obj\Debug\3935_DeboraVieira_T01.pdb
